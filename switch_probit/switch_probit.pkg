@@ -1,0 +1,6 @@
+D 'switch_probit': Maximum likelihood estimation of endogenous switching probit model Use switch_probit With STATA 18
+D
+F switch_probit.ado
+F switch_probit.sthlp
+F switch_probit_d2.ado
+F switch_probit_p.ado
