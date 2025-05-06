@@ -1,5 +1,7 @@
 # switch_probit
-Maximum likelihood estimation of endogenous switching probit model Use switch_probit With STATA 18
+Maximum likelihood estimation of endogenous switching probit model Use switch_probit With STATA 19
+
+https://www.youtube.com/watch?v=ECpjDCio1v4
 
 Olah Data Semarang
 
